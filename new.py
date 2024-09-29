@@ -7,3 +7,4 @@ for i in binary_code:
         else:
             print(f"{count}. - {i}")
     count += 1
+print(count)
